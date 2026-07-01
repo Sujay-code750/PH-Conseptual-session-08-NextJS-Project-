@@ -12,7 +12,7 @@ const Navbar = () => {
         await authClient.signOut();
     }
     
-    console.log(user);
+    // console.log(user);
 
   return (
     <div className="border-b px-2">
